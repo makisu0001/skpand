@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  tinyxml2.cpp
+  xmlfile.cpp
+  xmlgeomutils.cpp
+  xmlinheritancemanager.cpp
+  xmltexturehelper.cpp
+  xmlplugin.cpp
+  skp2xml.cpp
+  xmlexporter.cpp
+  xmlexportresultsdlg.cpp
+  xmloptionsdlg.cpp
+  xmlpluginwin.cpp
+  正在生成代码...
+    正在创建库 Release_x64\skp2xml.lib 和对象 Release_x64\skp2xml.exp
+  skp2xml.vcxproj -> D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\skp2xml.dll

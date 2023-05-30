@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-g",
+        ".\\main.cpp",
+        // "D:\\Projects\\sketchup\\sdk\\samples\\ReadingFromAskpFile\\main.cpp",
+        "-o",
+        "main",
+        "-ID:\\Projects\\sketchup\\sdk\\headers",
+        "-L'D:\\Projects\\sketchup\\sdk\\binaries\\sketchup\\x64'",
+        "-lSketchUpAPI"
+      ],
+      "group": "build"
+    },
+  ]
+}

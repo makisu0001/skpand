@@ -1,0 +1,12 @@
+﻿  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TextureMapping.vcxproj -> D:\Projects\sketchup\sdk\samples\TextureMapping\Release_x64\TextureMapping.exe
+  D:\Projects\sketchup\sdk\samples\TextureMapping\..\..\binaries\sketchup\x64\SketchUpAPI.dll
+  复制了 1 个文件
+  D:\Projects\sketchup\sdk\samples\TextureMapping\..\..\binaries\sketchup\x64\SketchUpCommonPreferences.dll
+  复制了 1 个文件
+  D:\Projects\sketchup\sdk\samples\TextureMapping\SU_Logo_Color.png
+  复制了 1 个文件

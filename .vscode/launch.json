@@ -1,0 +1,28 @@
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C++ Debug",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "D:\\Projects\\sketchup\\main.exe",
+      "args": [
+        "D:\\Projects\\sketchup\\facade2.skp",
+        "-ID:\\Projects\\sketchup\\sdk\\headers",
+        "-L'D:\\Projects\\sketchup\\sdk\\binaries\\sketchup\\x64'",
+        "-lSketchUpAPI"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "logging": {
+        "moduleLoad": false,
+        "trace": true
+      },
+      "visualizerFile": "C:\\w64devkit",
+    }
+  ]
+}

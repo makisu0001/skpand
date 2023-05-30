@@ -1,0 +1,12 @@
+D:\Projects\sketchup\sdk\samples\common\tinyxml2.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\tinyxml2.obj
+D:\Projects\sketchup\sdk\samples\common\xmlfile.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlfile.obj
+D:\Projects\sketchup\sdk\samples\common\xmlgeomutils.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlgeomutils.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\common\xmlinheritancemanager.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlinheritancemanager.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\common\xmltexturehelper.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmltexturehelper.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\plugin\xmlplugin.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlplugin.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\win\skp2xml.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\skp2xml.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\win\stdafx.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\stdafx.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\common\xmlexporter.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlexporter.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\win\xmlexportresultsdlg.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlexportresultsdlg.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\win\xmloptionsdlg.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmloptionsdlg.obj
+D:\Projects\sketchup\sdk\samples\skp_to_xml\win\xmlpluginwin.cpp;D:\Projects\sketchup\sdk\samples\skp_to_xml\win\Release_x64\intermediate\xmlpluginwin.obj
